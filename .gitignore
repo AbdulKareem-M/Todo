@@ -1,0 +1,22 @@
+# Root .gitignore
+# Node/React
+node_modules/
+build/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+.venv
+db.sqlite3
+media/
+static/
